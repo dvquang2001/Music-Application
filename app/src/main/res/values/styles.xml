@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SpartanRegularFontText">
+        <item name="fontFamily">@font/spartan_regular</item>
+    </style>
+
+    <style name="SpartanSemiBoldFontText">
+        <item name="fontFamily">@font/spartan_semi_bold</item>
+    </style>
+
+    <style name="SpartanBoldFontText">
+        <item name="fontFamily">@font/spartan_bold</item>
+    </style>
+
+    <style name="SpartanExtraBoldFontText">
+        <item name="fontFamily">@font/spartan_extra_bold</item>
+    </style>
+
+</resources>
