@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">MusicApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    home screen-->
+    <string name="top_bar_description">Ready to dive into the world music?</string>
+    <string name="hint_top_bar_title">Hello, David</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="night_vocal">Night vocal</string>
+    <string name="recent_listenings">Your Recent Listenings</string>
+    <string name="default_number_1">1</string>
+    <string name="default_hint_song_name">Redbone</string>
+    <string name="default_time_song">00:00</string>
+    <string name="top_albums">Top Albums</string>
+    <string name="default_album">Album . 2016</string>
+
+
 </resources>
